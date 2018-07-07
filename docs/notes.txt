@@ -1,0 +1,7 @@
+install nvm
+if nvm command not recognised, do this:
+    shit, I can't find it!
+    ah, just google it
+    something to do with removing a profile key or some shit
+
+    
